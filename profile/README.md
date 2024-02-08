@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+We'd love to share our tools with you. Please e-mail david.mummy@duke.edu to gain access to our repositories.
 <!--
 
 **Here are some ideas to get you started:**
